@@ -55,7 +55,6 @@ subset_diamonds <- diamonds %>%
 
 ```{r break-it-1}
 
-<<<<<<< HEAD
 asdasiudbsaiudbsaiubasd
 
 ```
@@ -67,6 +66,9 @@ asdasiudbsaiudbsaiubasd
 ### to plot, summarize, calculate something simple using the diamonds
 ### dataset.
 
+#head dude I think we should say q = 100
+
+q = 100
 
 ```
 
