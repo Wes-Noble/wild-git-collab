@@ -67,6 +67,8 @@ asdasiudbsaiudbsaiubasd
 ### to plot, summarize, calculate something simple using the diamonds
 ### dataset.
 
+this is my code 
+diamonds
 
 ```
 
