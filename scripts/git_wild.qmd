@@ -55,6 +55,7 @@ subset_diamonds <- diamonds %>%
 
 ```{r break-it-1}
 
+<<<<<<< HEAD
 asdasiudbsaiudbsaiubasd
 
 ```
