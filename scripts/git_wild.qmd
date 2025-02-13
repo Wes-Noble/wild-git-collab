@@ -73,7 +73,7 @@ q = 100
 =======
 this is my code 
 diamonds
->>>>>>> 46f5265338ebd6297a6c72dbda9c674e115e37be
+>>>>>>> 46f52653dsadasdaspkdasd38ebd6297a6c72dbda9c674e115e37be
 
 ```
 
