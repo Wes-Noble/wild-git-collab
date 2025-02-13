@@ -66,9 +66,14 @@ asdasiudbsaiudbsaiubasd
 ### to plot, summarize, calculate something simple using the diamonds
 ### dataset.
 
+<<<<<<< HEAD
 #head dude I think we should say q = 100
 
 q = 100
+=======
+this is my code 
+diamonds
+>>>>>>> 46f5265338ebd6297a6c72dbda9c674e115e37be
 
 ```
 
