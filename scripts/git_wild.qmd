@@ -16,6 +16,25 @@ execute:
 ### ggplot2 package) and create a plot of price vs. carat (or some other
 ### variables of your choice)
 
+library(tidyverse)
+
+diamonds = ggplot2::diamonds 
+
+price_vs_carat_plot <- diamonds %>%
+  ggplot(aes(x = carat, y = price)) +  # Map carat to x-axis, price to y-axis, and clarity to color
+  geom_point(alpha = 0.6, size = 1.5) +  # Add points with transparency and size adjustment
+  labs(
+    title = "Diamond Price vs. Carat Weight",
+    x = "Carat Weight",
+    y = "Price (USD)",
+    color = "Clarity"
+  ) +  # Add titles and axis labels
+  theme_minimal() +  # Use a clean theme
+  scale_color_brewer(palette = "Set3")  # Use a color palette for clarity levels
+
+# Display the plot
+price_vs_carat_plot
+
 
 ```
 
